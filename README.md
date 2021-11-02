@@ -38,5 +38,5 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) estudi
 
 
 ## Mis Estadísticas:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idanirf)](https://github.com/idanirf/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idanirf)](https://github.com/idanirf)
 
