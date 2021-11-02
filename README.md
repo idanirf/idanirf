@@ -13,6 +13,7 @@ Aquí esta mi repositorio de GitHub donde tengo todos los proyectos que he ido r
 
 ## Mi etapa actual como estudiante de DAM:
 Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) estudiando 1º de DAM, ahora estoy en el momento de crear varios vectores y sumarlos, restarlos o hacer un producto. Luego esta entornos de desarrollo y el octogato, por aquí dejo el mío.
+
 <img src="imagenes/octocat.png" width="450" >
 
 > ***A programar se aprende programando*** - **Jose Luis González**
@@ -52,7 +53,6 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) estudi
 - IntelliJ IDEA
 
     <img src="imagenes/intellij.png" width="50" >
-
 
 - RunJS
 
