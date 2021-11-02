@@ -24,12 +24,37 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) estudi
 
 ## Lenguajes que he utilizado:
 - TypeScript
+
+  <img src="imagenes/typescript.png" width="80" >
+
 - Java
+
+  <img src="imagenes/java.png" width="80" >
+
 - HTML
+
+  <img src="imagenes/html.png" width="80" >
+
 
 ## Entornos de Desarrollo que he utilizado:
 - GitHub
+
+  <img src="imagenes/github.png" width="80" >
+
 - GitKraken
+
+ <img src="imagenes/gitkraken.png" width="400" >
+
 - VisualStudioCode
+
+  <img src="imagenes/vscode.png" width="50" >
+
 - IntelliJ IDEA
+
+    <img src="imagenes/intellij.png" width="50" >
+
+
 - RunJS
+
+  <img src="imagenes/runjs.jpg" width="80" >
+
