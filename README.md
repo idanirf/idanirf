@@ -27,10 +27,9 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) estudi
 <a href="https://twitter.com/idanirf"><img src="imagenes/icotw.png" width="100" ></a>
 
 
-## Lenguajes que he utilizado:
+## Lenguajes que he utilizado: 
 
-  <img src="imagenes/typescript.png" width="80" > <img src="imagenes/java.png" width="80" > <img src="imagenes/html.png" width="80" > <img src="imagenes/css.png" width="57" > <img src="imagenes/mysql.png" width="80" ><img src="imagenes/kotlin.png" width="80" >
-
+  <img src="imagenes/typescript.png" width="80" > <img src="imagenes/java.png" width="80" > <img src="imagenes/html.png" width="80" > <img src="imagenes/css.png" width="57" > <img src="imagenes/mysql.png" width="80" ><img src="imagenes/kotlin.png" width="100" >
 
 ## Entornos de Desarrollo que he utilizado:
 
