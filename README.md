@@ -74,27 +74,20 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) finali
 <br>
 <img src="imagenes/github.png" width="100" >
 <br>
-<br>
 <img src="imagenes/gitkraken.png" width="150" > 
-<br>
 <br>
 <img src="imagenes/vscode.png" width="100" >
 <br>
-<br>
 <img src="imagenes/intellij.png" width="125">
 <br>
-<br>
 <img src="imagenes/junitAndMockito.png" width="100">
-<br>
 <br>
 <img src="imagenes/sceneBuilder.png" width="50">
 <br>
 <br>
-
 ---
 
 ## **Mis Estadísticas:**
-
 ---
 <br>
 
