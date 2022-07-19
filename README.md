@@ -67,6 +67,8 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) finali
   <br>
   <br>
 
+
+
 ---
 ## **Entornos de Desarrollo y Tecnologías que he utilizado:**
 
@@ -93,5 +95,8 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) finali
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idanirf)](https://github.com/idanirf)
+<br>
+
+<a href="https://github.com/idanirf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idanirf&langs_count=10&title_color=a85f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Lenguajes más usados" /></a>
 
 
