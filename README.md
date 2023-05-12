@@ -108,27 +108,6 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) cursan
 
 <br>
 
-<h2 align="center"><b>ESTADÍSTICAS</b></h2>
-
-
-<br>
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=idanirf&show_icons=true&theme=dark)
-<br>
-
-<a href="https://github.com/idanirf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idanirf&langs_count=10&title_color=a85f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Lenguajes más usados" /></a>
-<br>
-
-
-
-
-<h3>Visitas a mi perfil</h3>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/idanirf/count.svg" /></p> 
-<br>
-
-
 </div>
 
 
