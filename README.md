@@ -90,7 +90,7 @@ Actualmente estoy en el [IES LUIS VIVES](https://github.com/IESLuisVives) cursan
 
 <div align="center">
 
- Personal: daniel.rodrifdez@gmail.com
+ Personal: danielrodrifern@gmail.com
 
  Instituto: daniel.rodriguezfernandez@alumno.iesluisvives.org
 
