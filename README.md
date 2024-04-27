@@ -63,7 +63,7 @@ Soy un firme creyente en el aprendizaje continuo y disfruto enfrentando nuevos d
 ¡Me encantaría conectarme contigo! Puedes encontrarme en varias plataformas:
 
 * 📧 **Correo Electrónico:** [danielrodrifern@gmail.com](mailto:danielrodrifern@gmail.com)
-* 🐦 **X:** [@idanirf](https://twitter.com/idanirf)
+* **X:** [@idanirf](https://twitter.com/idanirf)
 * 💼 **LinkedIn:** [danielrodriguezfernandez03002](https://www.linkedin.com/in/danielrodriguezfernandez03002/)
 * 🔗 **Portfolio:** [idanirf.github.io](https://idanirf.github.io)
 * 🌐 **Google Developer Profile:** [g.dev/idanirf](https://g.dev/idanirf)
