@@ -7,7 +7,7 @@
 ¡Hola! Soy Dani Rodríguez, un apasionado desarrollador con experiencia en múltiples tecnologías y entornos. Me gradué como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y previamente obtuve mi título como Técnico en Sistemas Microinformáticos y Redes en el IES Luis Vives de Leganés, Madrid.
 
 Actualmente, me desempeño como Data Engineer y Salesforce Developer en BBVA, donde aplico mis habilidades técnicas y experiencia en la creación y gestión de datos para contribuir al éxito de los proyectos de la empresa. 
-Además, soy profesor de la familia de Informática y Comunicaciones para alumnos de ESO, Grado Medio y Superior. Ya que me apasiona la enseñanza y la tecnología, considero que es una excelente oportunidad para compartir mis conocimientos y experiencias con los estudiantes.
+Además, soy profesor de la familia de Informática y Comunicaciones para alumnos de Ed.Secundaria y Bachillerato, Grado Medio y Superior, ya que me apasiona la enseñanza y la tecnología, considero que es una excelente oportunidad para compartir mis conocimientos y experiencias con los estudiantes.
 
 Durante mi etapa educativa he podido desempeñar diversos roles en los proyectos realizados en el aula, principalmente como Product Owner, estás experiencias me han permitido adquirir habilidades de liderazgo, trabajo en equipo y comunicación, que considero fundamentales para el éxito en cualquier proyecto.
 
